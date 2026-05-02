@@ -1,0 +1,156 @@
+<ENTRY>
+{
+ "thisFile": "D:/DVCon\\Vitis\\systolic_array_v1\\systolic_array_v1\\systolic_array_v1.hlsrun_csim_summary",
+ "connectId": "",
+ "serverToken": "",
+ "timestamp": "0"
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_CmdStep",
+ "dateTimestamp": "04/20/26 18:01:59",
+ "timestampMillis": "1776688319388",
+ "buildStep": {
+  "cmdId": "4d7db96e-5cf4-4a6a-802e-4e3878ef8315",
+  "name": "vitis-run",
+  "logFile": "D:/DVCon\\Vitis\\systolic_array_v1\\systolic_array_v1\\logs\\systolic_array_v1.steps.log",
+  "commandLine": "D:/AMDDesignTools/2025.2/Vitis/bin/unwrapped/win64.o/vitis-run.exe  --mode hls --csim --config D:\\DVCon\\Vitis\\systolic_array_v1\\hls_config.cfg --work_dir systolic_array_v1 ",
+  "args": [
+   "--mode",
+   "hls",
+   "--csim",
+   "--config",
+   "D:\\DVCon\\Vitis\\systolic_array_v1\\hls_config.cfg",
+   "--work_dir",
+   "systolic_array_v1"
+  ],
+  "iniFiles": [],
+  "cwd": "D:\\DVCon\\Vitis\\systolic_array_v1"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "04/20/26 18:01:59",
+ "timestampMillis": "1776688319388",
+ "status": {
+  "cmdId": "4d7db96e-5cf4-4a6a-802e-4e3878ef8315",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_FlowMetaData",
+ "dateTimestamp": "04/20/26 18:02:14",
+ "timestampMillis": "1776688334677",
+ "buildSummary": {
+  "hardwarePlatform": "",
+  "hardwareDsa": "",
+  "platformDirectory": "",
+  "runtime": "",
+  "systemConfig": "",
+  "flow": "BF_RUN",
+  "target": "TT_HLS_C_SIM",
+  "kernels": [
+   {
+    "base": {
+     "type": "KERNEL",
+     "name": "",
+     "file": "",
+     "reports": [],
+     "uuid": ""
+    },
+    "sources": [
+     "D:/DVCon\\Vitis\\systolic_array_v1\\mmult.cpp"
+    ],
+    "psSources": [],
+    "cuNames": [],
+    "type": "HLS",
+    "frequency": 0,
+    "freqUnits": ""
+   }
+  ],
+  "toolVersion": "2025.2"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_SubCmdStep",
+ "dateTimestamp": "04/20/26 18:02:14",
+ "timestampMillis": "1776688334678",
+ "buildStep": {
+  "cmdId": "90e0cb58-f7cc-4ea7-b7c5-2a29fb096b4e",
+  "name": "",
+  "logFile": "D:/DVCon\\Vitis\\systolic_array_v1\\systolic_array_v1\\hls\\hls.log",
+  "commandLine": "",
+  "args": [],
+  "iniFiles": [],
+  "cwd": "D:\\DVCon\\Vitis\\systolic_array_v1"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "04/20/26 18:02:14",
+ "timestampMillis": "1776688334679",
+ "status": {
+  "cmdId": "90e0cb58-f7cc-4ea7-b7c5-2a29fb096b4e",
+  "state": "CS_RUNNING"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "04/20/26 18:02:24",
+ "timestampMillis": "1776688344471",
+ "status": {
+  "cmdId": "90e0cb58-f7cc-4ea7-b7c5-2a29fb096b4e",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Status",
+ "dateTimestamp": "04/20/26 18:02:24",
+ "timestampMillis": "1776688344686",
+ "status": {
+  "cmdId": "4d7db96e-5cf4-4a6a-802e-4e3878ef8315",
+  "state": "CS_PASSED"
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "04/20/26 18:02:24",
+ "timestampMillis": "1776688344688",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "HTML",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>
+<ENTRY>
+{
+ "type": "ET_Report",
+ "dateTimestamp": "04/20/26 18:02:24",
+ "timestampMillis": "1776688344688",
+ "report": {
+  "path": "",
+  "name": "",
+  "fileType": "BINARY_PROTOBUF",
+  "reportType": "GLOBAL_RULECHECK_GUIDANCE",
+  "cmdId": ""
+ }
+}
+</ENTRY>

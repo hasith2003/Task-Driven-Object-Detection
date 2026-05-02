@@ -1,0 +1,50 @@
+04/20/26 18:01:57: Running xcd server. This server was built by gradle.
+04/20/26 18:01:57: Server was asked to start on port: '63670'
+04/20/26 18:01:57: Server is using token UUID: '69c20d75-ad06-4fe6-8c66-7359d85c86d3'
+04/20/26 18:01:57: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+04/20/26 18:01:57: Attempting to start server on port '63670'
+04/20/26 18:01:57: Running Dispatch Server
+04/20/26 18:01:57: Version 2.2.0
+04/20/26 18:01:59: Dispatch Server: Accepted socket connection from client
+04/20/26 18:01:59: Starting Socket connection
+04/20/26 18:01:59: EXCHANGE_TOKEN received, server token: 69c20d75-ad06-4fe6-8c66-7359d85c86d3, passed token: 69c20d75-ad06-4fe6-8c66-7359d85c86d3
+04/20/26 18:02:00: DISPATCH_HANDLER: Adding handler from function makeHandler in library xv_system_diagram
+04/20/26 18:02:00: SESSION_MGR: creating session with session uuid: '019554ef-4d3c-4fd7-bb73-90b2f01122f1' and name 'vitis-run_compile_systolic_array_v1'
+04/20/26 18:02:00: KERNEL_SVC: creating session with uuid: '019554ef-4d3c-4fd7-bb73-90b2f01122f1' and name 'vitis-run_compile_systolic_array_v1'
+04/20/26 18:02:00: GUIDANCE_SMGR: creating guidance session with uuid: '019554ef-4d3c-4fd7-bb73-90b2f01122f1' and name 'vitis-run_compile_systolic_array_v1'
+04/20/26 18:02:00: SYSTEM_DIAGRAM: creating session with uuid: '019554ef-4d3c-4fd7-bb73-90b2f01122f1' and name 'vitis-run_compile_systolic_array_v1'
+04/20/26 18:02:14: Dispatch Server: Accepted socket connection from client
+04/20/26 18:02:14: Starting Socket connection
+04/20/26 18:02:24: SESSION_MGR: closing session for UUID '019554ef-4d3c-4fd7-bb73-90b2f01122f1' with name 'vitis-run_compile_systolic_array_v1'
+04/20/26 18:02:24: KERNEL_SVC: closing session for UUID '019554ef-4d3c-4fd7-bb73-90b2f01122f1' with name 'vitis-run_compile_systolic_array_v1'
+04/20/26 18:02:24: GUIDANCE_SMGR: closing session for UUID '019554ef-4d3c-4fd7-bb73-90b2f01122f1' with name 'vitis-run_compile_systolic_array_v1'
+04/20/26 18:02:24: SYSTEM_DIAGRAM: closing session for UUID '019554ef-4d3c-4fd7-bb73-90b2f01122f1' with name 'vitis-run_compile_systolic_array_v1'
+04/20/26 18:02:24: STOP_SERVER received, server token: 69c20d75-ad06-4fe6-8c66-7359d85c86d3, passed token: 69c20d75-ad06-4fe6-8c66-7359d85c86d3
+04/20/26 18:02:24: Socket received request to stop server.
+04/20/26 18:02:24: Dispatch Server: do_await_stop
+04/20/26 18:02:24: SERVER: destructor for server bound to port 63670
+04/20/26 18:24:03: Running xcd server. This server was built by gradle.
+04/20/26 18:24:03: Server was asked to start on port: '60763'
+04/20/26 18:24:03: Server is using token UUID: '149ee545-b99a-4fdd-8d52-1b730718ee3f'
+04/20/26 18:24:03: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+04/20/26 18:24:03: Attempting to start server on port '60763'
+04/20/26 18:24:03: Running Dispatch Server
+04/20/26 18:24:03: Version 2.2.0
+04/20/26 18:24:06: Dispatch Server: Accepted socket connection from client
+04/20/26 18:24:06: Starting Socket connection
+04/20/26 18:24:06: EXCHANGE_TOKEN received, server token: 149ee545-b99a-4fdd-8d52-1b730718ee3f, passed token: 149ee545-b99a-4fdd-8d52-1b730718ee3f
+04/20/26 18:24:06: DISPATCH_HANDLER: Adding handler from function makeHandler in library xv_system_diagram
+04/20/26 18:24:06: SESSION_MGR: creating session with session uuid: 'c20837ec-3a73-4822-b310-2e5b7d628f1f' and name 'v++_compile_systolic_array_v1'
+04/20/26 18:24:06: KERNEL_SVC: creating session with uuid: 'c20837ec-3a73-4822-b310-2e5b7d628f1f' and name 'v++_compile_systolic_array_v1'
+04/20/26 18:24:06: GUIDANCE_SMGR: creating guidance session with uuid: 'c20837ec-3a73-4822-b310-2e5b7d628f1f' and name 'v++_compile_systolic_array_v1'
+04/20/26 18:24:06: SYSTEM_DIAGRAM: creating session with uuid: 'c20837ec-3a73-4822-b310-2e5b7d628f1f' and name 'v++_compile_systolic_array_v1'
+04/20/26 18:24:14: Dispatch Server: Accepted socket connection from client
+04/20/26 18:24:14: Starting Socket connection
+04/20/26 18:25:39: SESSION_MGR: closing session for UUID 'c20837ec-3a73-4822-b310-2e5b7d628f1f' with name 'v++_compile_systolic_array_v1'
+04/20/26 18:25:39: KERNEL_SVC: closing session for UUID 'c20837ec-3a73-4822-b310-2e5b7d628f1f' with name 'v++_compile_systolic_array_v1'
+04/20/26 18:25:39: GUIDANCE_SMGR: closing session for UUID 'c20837ec-3a73-4822-b310-2e5b7d628f1f' with name 'v++_compile_systolic_array_v1'
+04/20/26 18:25:39: SYSTEM_DIAGRAM: closing session for UUID 'c20837ec-3a73-4822-b310-2e5b7d628f1f' with name 'v++_compile_systolic_array_v1'
+04/20/26 18:25:39: STOP_SERVER received, server token: 149ee545-b99a-4fdd-8d52-1b730718ee3f, passed token: 149ee545-b99a-4fdd-8d52-1b730718ee3f
+04/20/26 18:25:39: Socket received request to stop server.
+04/20/26 18:25:39: Dispatch Server: do_await_stop
+04/20/26 18:25:39: SERVER: destructor for server bound to port 60763

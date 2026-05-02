@@ -1,0 +1,22 @@
+{
+  "0": {
+    "basicblocks": 311,
+    "calls": "",
+    "control_depth": 5,
+    "def_use_depth": 3,
+    "file": "mmult.cpp",
+    "fileloc": 6,
+    "instructions": 2317,
+    "loads": {
+      "L": 32,
+      "T": 2
+    },
+    "memory_accesses": 86,
+    "name": "mmult",
+    "stores": {
+      "L": 32,
+      "T": 1
+    },
+    "total_instructions": 2317
+  }
+}

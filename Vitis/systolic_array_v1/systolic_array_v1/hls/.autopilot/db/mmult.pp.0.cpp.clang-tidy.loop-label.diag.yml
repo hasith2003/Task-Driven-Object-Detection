@@ -1,0 +1,100 @@
+---
+MainSourceFile:  'D:/DVCon/Vitis/systolic_array_v1/systolic_array_v1/hls/.autopilot/db/mmult.pp.0.cpp'
+Diagnostics:
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_676_1:  '
+      FilePath:        'D:\AMDDesignTools\2025.2\Vitis\common\technology\autopilot\etc\ap_int_ref.h'
+      FileOffset:      676
+      Replacements:
+        - FilePath:        'D:\DVCon\Vitis\systolic_array_v1\systolic_array_v1\hls\.autopilot\db\mmult.pp.0.cpp'
+          Offset:          280091
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_676_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\DVCon\Vitis\systolic_array_v1'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_690_1:  '
+      FilePath:        'D:\AMDDesignTools\2025.2\Vitis\common\technology\autopilot\etc\ap_int_ref.h'
+      FileOffset:      690
+      Replacements:
+        - FilePath:        'D:\DVCon\Vitis\systolic_array_v1\systolic_array_v1\hls\.autopilot\db\mmult.pp.0.cpp'
+          Offset:          280562
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_690_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\DVCon\Vitis\systolic_array_v1'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_704_1:  '
+      FilePath:        'D:\AMDDesignTools\2025.2\Vitis\common\technology\autopilot\etc\ap_int_ref.h'
+      FileOffset:      704
+      Replacements:
+        - FilePath:        'D:\DVCon\Vitis\systolic_array_v1\systolic_array_v1\hls\.autopilot\db\mmult.pp.0.cpp'
+          Offset:          281034
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_704_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\DVCon\Vitis\systolic_array_v1'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_1251_1:  '
+      FilePath:        'D:\AMDDesignTools\2025.2\Vitis\common\technology\autopilot\etc\ap_fixed_base.h'
+      FileOffset:      1251
+      Replacements:
+        - FilePath:        'D:\DVCon\Vitis\systolic_array_v1\systolic_array_v1\hls\.autopilot\db\mmult.pp.0.cpp'
+          Offset:          626437
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_1251_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\DVCon\Vitis\systolic_array_v1'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_33_1:  '
+      FilePath:        mmult.cpp
+      FileOffset:      33
+      Replacements:
+        - FilePath:        'D:\DVCon\Vitis\systolic_array_v1\systolic_array_v1\hls\.autopilot\db\mmult.pp.0.cpp'
+          Offset:          2229317
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_33_1: '
+    Level:           Remark
+    BuildDirectory:  'D:\DVCon\Vitis\systolic_array_v1'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_34_2:  '
+      FilePath:        mmult.cpp
+      FileOffset:      34
+      Replacements:
+        - FilePath:        'D:\DVCon\Vitis\systolic_array_v1\systolic_array_v1\hls\.autopilot\db\mmult.pp.0.cpp'
+          Offset:          2229356
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_34_2: '
+    Level:           Remark
+    BuildDirectory:  'D:\DVCon\Vitis\systolic_array_v1'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_59_3:  '
+      FilePath:        mmult.cpp
+      FileOffset:      59
+      Replacements:
+        - FilePath:        'D:\DVCon\Vitis\systolic_array_v1\systolic_array_v1\hls\.autopilot\db\mmult.pp.0.cpp'
+          Offset:          2229837
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_59_3: '
+    Level:           Remark
+    BuildDirectory:  'D:\DVCon\Vitis\systolic_array_v1'
+  - DiagnosticName:  xilinx-label-all-loops
+    DiagnosticMessage:
+      Message:         'Added loop label VITIS_LOOP_60_4:  '
+      FilePath:        mmult.cpp
+      FileOffset:      60
+      Replacements:
+        - FilePath:        'D:\DVCon\Vitis\systolic_array_v1\systolic_array_v1\hls\.autopilot\db\mmult.pp.0.cpp'
+          Offset:          2229876
+          Length:          0
+          ReplacementText: 'VITIS_LOOP_60_4: '
+    Level:           Remark
+    BuildDirectory:  'D:\DVCon\Vitis\systolic_array_v1'
+...
