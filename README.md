@@ -9,7 +9,7 @@ This repository features a hardware-aware implementation of multimodal emotion r
 
 | Component | Original Paper | **My DVCON Pipeline** |
 | :--- | :--- | :--- |
-| **Backbone** | Faster-RCNN + ResNet50 | **YOLOv26n / YOLOv27n** |
+| **Backbone** | Faster-RCNN + ResNet50 | **YOLOv26n** |
 | **Graph Engine** | GGNN | **Multi-Head GAT** |
 | **Deployment Target** | GPU / High-End PC | **Kintex-7 FPGA (Planned)** |
 
