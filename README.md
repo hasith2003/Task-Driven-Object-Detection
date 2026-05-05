@@ -1,5 +1,5 @@
-# Hardware-Optimized Emotion Recognition
-## DVCON Pipeline Implementation
+# Task Driven Object Detection on FPGA
+## DVCON 2026 Pipeline Implementation
 
 This repository features a hardware-aware implementation of multimodal emotion recognition, significantly optimized from the original paper's architecture to meet real-time edge constraints.
 
